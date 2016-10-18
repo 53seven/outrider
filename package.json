@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "pkginfo": "^0.3.1",
-    "bunyan": "^1.5.1"
+    "bunyan": "^1.8.2"
   },
   "devDependencies": {},
   "scripts": {},
