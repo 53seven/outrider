@@ -1,6 +1,9 @@
 outrider
 ===
 
+depricated - have a look at [herodotus](https://github.com/53seven/herodotus)
+===
+
 ```js
 npm install outrider
 ```
