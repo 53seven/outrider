@@ -1,6 +1,8 @@
 outrider
 ===
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/53seven/outrider.svg)](https://greenkeeper.io/)
+
 depricated - have a look at [herodotus](https://github.com/53seven/herodotus)
 ===
 
